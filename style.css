@@ -68,7 +68,7 @@ h2, h3 {
 }
 img{
     border-radius: 10px;
-    border:rgb(255, 0, 0)
+    border:rgb(255, 0, 0);
     padding: 85px;
     border-width: thick thick thick 50px;
 }
