@@ -69,9 +69,7 @@ h2, h3 {
 }
 img{
     border-radius: 15px;
-    border:#ff0000;
-    padding: 85px;
-    border-width: thick thick thick 50px;
+    border:10px solid #00d9ff;
 }
 /* portfolio styles */
 .content h1 {
